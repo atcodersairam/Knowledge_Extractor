@@ -5,7 +5,7 @@ import re
 import math  # For IDF calculation
 
 # GitHub Token (Hardcoded)
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 def fetch_file_content(file_url, headers=None):
     """Fetches the content of a file from GitHub(URL)."""
